@@ -1,0 +1,49 @@
+body{
+    background-color: #F7ECDE;
+}
+
+h2{
+
+    font-family: 'Pacifico', cursive;
+        font-size: 50px;
+        font-weight: 500;
+        
+}
+.fav-site{
+font-size: 72px;
+    background: -webkit-linear-gradient(left,#3EA55C, #e7e161);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Righteous', cursive;
+}
+.form-control:focus{
+    border-color: #e7be06;
+    box-shadow: 0 0 0 0.2rem rgba(236, 166, 14, 0.25);
+}
+.btn-sub{
+    background-color: #BB4120;
+    color: white;
+}
+.btn-sub:hover {
+    background-color: #e7be06;
+}
+
+.zrate{
+    color: #e7be06;
+    font-size: 25px;
+}
+
+.circles span:nth-child(1) {
+    background-color: #f15f5d;
+}
+
+.circles span:nth-child(2) {
+    background-color: #febe2e;
+}
+
+.circles span:nth-child(3){
+    background-color: #4db748;
+}   
+.logo {
+    width: 40px;
+}
